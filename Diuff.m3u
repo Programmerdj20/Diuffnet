@@ -12,3 +12,7 @@ http://castlempire.site:8080/CandchA/E1AQQR8KBs/170189
 #EXTINF:-1 tvg-id="" tvg-name="CO | Caracol HD" tvg-logo="http://castlempire.site:8080/images/6cb72e800b76f7b8568cdaab2555c349.png" group-title="Colombia",Caracol Internacional
 http://castlempire.site:8080/CandchA/E1AQQR8KBs/170175
 
+
+#? Pelicula de prueba
+#EXTINF:-1 tvg-id="" tvg-name="Babylon (2023) x265" tvg-logo="http://castlempire.site:8080/images/bfdf5fe42455ab32e8d5254dc5d23016.jpg" group-title="⭐️TOP ESTRENOS 2023⭐️ ",Babylon (2023) x265
+http://castlempire.site:8080/movie/CandchA/E1AQQR8KBs/247414.mkv
